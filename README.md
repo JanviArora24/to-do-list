@@ -18,3 +18,8 @@ You can add, delete, and manage daily tasks with ease.
 - JavaScript (Vanilla)
 
 ## 📁 Folder Structure
+to-do-list/
+├── index.html
+├── style.css
+├── script.js
+└── README.md
