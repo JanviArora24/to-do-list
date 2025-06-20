@@ -1,7 +1,7 @@
 # 📝 To-Do List Web App
 
 A simple and responsive To-Do List built using **HTML**, **CSS**, and **JavaScript**.  
-You can add, delete, and manage daily tasks with ease.
+You can add, delete, and manage daily tasks with ease.Tasks are saved in local storage so they remain available even after refreshing the page.
 
 ## 🔗 Live Demo
 👉 [Visit Live Website](https://to-do-list-janvi.netlify.app)
@@ -10,6 +10,7 @@ You can add, delete, and manage daily tasks with ease.
 - Add new tasks
 - Mark tasks as completed
 - Delete tasks
+- Stores tasks in **localStorage** for data persistence
 - Fully responsive design (works on mobile too)
 
 ## 🚀 Technologies Used
